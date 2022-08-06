@@ -1,6 +1,6 @@
 # PHPExcel - 2021
 
-PHPExcel latest version, 2.0 released in 2021. I restarted this project as PHPExcel is still in use in million projects and having problems with migrating their entire code. Please support this project. Thanks a lot.
+PHPExcel latest version, 2.0 released in 2021. I restarted this project as PHPExcel is still in use in millions of projects and having problems with migrating their entire code. Please support this project. Thanks a lot.
 
 
 ## Credits
